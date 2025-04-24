@@ -4,7 +4,6 @@
 
 The space-tourism website challenge from FrontendMentor.
 
-
 ## Features
 
 - Fully responsive UI for mobile and desktop.
@@ -15,19 +14,18 @@ The space-tourism website challenge from FrontendMentor.
 
 - Pixel-perfect design.
 
-
 ## Running locally
 
 ```bash
 git clone https://github.com/blue-crown-dev/space-tours.git
 cd space-tours
 ```
-- Open the `index.html`file in your browser to see.
 
+- Open the `index.html`file in your browser to see.
 
 ## Deployment
 
-Add additional notes to deploy this on a live system
+The live site is available at [this link](https://outerspacetours.netlify.app/)
 
 ## Built With
 
@@ -48,4 +46,3 @@ This code is licensed under a MIT license.
 
 - Frontend Mentor for the original challenge and assets.
 - [Kevin Powell]() for the wonderful tutorial and design system.
-
